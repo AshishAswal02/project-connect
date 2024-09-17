@@ -1,7 +1,7 @@
 {
   "name": "project-connect",
-  "private": true,
   "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
